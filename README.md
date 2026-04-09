@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white)
+
 
 <!--
 **thegitmate/thegitmate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
