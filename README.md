@@ -1,6 +1,10 @@
-## Hi there 👋
+## Welcome 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thegitmate)
+
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
 <!--
 **thegitmate/thegitmate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
